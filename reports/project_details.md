@@ -1,4 +1,5 @@
 # Project Details
+*this file will be updated in the future*
 
 ***Planned features:***
 ---
